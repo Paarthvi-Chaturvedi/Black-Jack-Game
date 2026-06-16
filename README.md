@@ -44,7 +44,7 @@ No installation or dependencies needed.
  
 1. Clone the repository
 ```bash
-   git clone https://github.com/your-username/blackjack.git
+   git clone: https://github.com/Paarthvi-Chaturvedi/Black-Jack-Game.git
 ```
 2. Open `index.html` in your browser and start playing
 
@@ -52,7 +52,7 @@ No installation or dependencies needed.
 
 - Managing game state with variables (`isAlive`, `hasBlackJack`, `score`)
 - Generating random numbers with `Math.random()` and `Math.floor()`
-- Updating the DOM dynamically using `textContent`
+- Updating the DOM dynamically using `textContent.`
 - Handling multiple button interactions with event listeners
 - Conditionally controlling game flow based on state
 
