@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 3em auto;
+    text-align: center;
+    background-image: url("poker.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 4rem;
+    margin: 1.5em;
+    color: goldenrod;
+}
+
+p{
+    margin: 0.5em;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+}
+
+button{
+    padding: 0.5em 1em;
+    margin: 0.25em;
+    font-size: 1.25rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: goldenrod;
+    color: #063f01;
+}
